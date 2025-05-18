@@ -7,11 +7,11 @@
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.izhcity_lab4.ui.HomeFragment"
-        android:label="Home" >
+        android:label="Домашняя страница" >
         <action
             android:id="@+id/action_home_to_category"
             app:destination="@id/categoryFragment">
-            <!-- Safe Args передача аргумента categoryName -->
+
             <argument
                 android:name="categoryName"
                 app:argType="string" />
@@ -21,7 +21,7 @@
     <fragment
         android:id="@+id/categoryFragment"
         android:name="com.example.izhcity_lab4.ui.CategoryFragment"
-        android:label="Category" >
+        android:label="Категории" >
         <argument
             android:name="categoryName"
             app:argType="string" />
@@ -37,7 +37,7 @@
     <fragment
         android:id="@+id/detailFragment"
         android:name="com.example.izhcity_lab4.ui.DetailFragment"
-        android:label="Detail">
+        android:label="Детальная информация">
         <argument
             android:name="recommendationName"
             app:argType="string" />
