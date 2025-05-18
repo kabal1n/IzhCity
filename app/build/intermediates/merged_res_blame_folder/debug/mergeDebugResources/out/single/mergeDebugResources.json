@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_tastycoffe.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\tastycoffe.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_panorama.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\panorama.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_trikita.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\trikita.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_kare.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\kare.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_gorkovo.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\gorkovo.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_dinopolis.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\dinopolis.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_three_whales.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\three_whales.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_placeholder.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\placeholder.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_troyka.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\troyka.webp"
+    },
+    {
+        "merged": "com.example.izhcity_lab4.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.example.izhcity_lab4.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_passage.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\passage.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_tishino.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\tishino.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_cgashka.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\cgashka.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_troika.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\troika.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_gorky_park.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\gorky_park.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_tasty_coffee.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\tasty_coffee.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_care.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\care.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_passazh.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\passazh.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_dino.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\dino.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_chashka.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\chashka.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_brauplatz.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\brauplatz.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\drawable_blanche.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\drawable\\blanche.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.11.1\\com.example.izhcity_lab4.app-main-52:\\xml\\data_extraction_rules.xml"
+    }
+]
